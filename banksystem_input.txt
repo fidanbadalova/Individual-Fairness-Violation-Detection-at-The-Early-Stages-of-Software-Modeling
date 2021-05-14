@@ -1,3 +1,0 @@
-Metric: conditionalEntropy
-Threshold: 0.6
-Protected_Data: healthy,age
